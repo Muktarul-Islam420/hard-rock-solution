@@ -19,7 +19,7 @@ body {
     padding: 9px 20px;
 }
 
-.btn-privious {
+.btn-previous {
     background: rgba(255, 255, 255, 0.2);
     color: #ffffff;
 }
@@ -44,10 +44,9 @@ body {
     border-radius: 15px;
 }
 
-#head-title {
-    color: darkcyan;
+.picture {
+    height: 100px;
+    width: 100px;
 }
 
-#head-title:hover {
-    color: cyan
-}
+;
