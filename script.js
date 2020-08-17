@@ -69,7 +69,7 @@ async function getLyrics(artist, songTitle) {
   if (lyrics === undefined) {
     lyricsResult.innerHTML = `
   
-    <h1 class="mb-4 font-weight-bold text-danger"> Opp! </h1>
+    <h1 class="mb-4 font-weight-bold text-danger"> 😫Opp! </h1>
   
   
   
